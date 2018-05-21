@@ -1,2 +1,2 @@
-# hello-world
-just another repository
+# kadai
+卒研生課題
